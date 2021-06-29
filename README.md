@@ -1,8 +1,8 @@
 # Find-Median
 This projects finds the median of the array made by merging two given sorted arrays
-##The main idea
-When compaing the median of two arrays there will be two cases
-if med_1 == med_2 
+## The main idea
+When compaing the median of two arrays there will be two cases:\\
+if med_1 == med_2 \\
 then in the median of the final array would be the same(the left sides of medians will merge together and the right sides together)
 in case the two medians are not equal:
 Assume that the length of the first array(m) > length of the second array(n)
